@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/blog" # the subpath of your site, e.g. /blog/
-url: "http://syhoung.github.io/blog"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://syhoung.github.io/"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
