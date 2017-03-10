@@ -44,9 +44,11 @@
   border-bottom: 1px solid $border-color;
   li {
     width: 32%;
+    vertical-align: top;
     margin-right:0.5%;
     margin-left:0.5%;
     margin-bottom: 0;
+    top: 0;
     display: inline-block;
     p a:hover {
       @extend %link-hover;
